@@ -2,13 +2,7 @@
 This is a Pep-9 (16-bit complex instruction set computer (CISC) calculator coded in assembly language that can add, subtract, multiply, and divide. To use this calculator the user has to enter the operation in prefix notation.
 
 Here is an example of input and output:
-Input:
-+ 9 9
-- 4 8
-* -3 3
-/ 8 2
-q
-
+Input: + 9 9 - 4 8 * -3 3 / 8 2 q
 Output:
 + 9 9 = 18
 --------
