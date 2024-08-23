@@ -4,6 +4,7 @@ This is a Pep-9 (16-bit complex instruction set computer CISC) calculator coded 
 Here is an example of input and output:
 Input: + 9 9 - 4 8 * -3 3 / 8 2 q
 Output:
+'
 + 9 9 = 18
 --------
 - 4 8 = -4
@@ -13,6 +14,7 @@ Output:
 / 8 2 = 4
 --------
 q
+'
 
 The program will print the operation (also in prefix notation) and the result followed by a dotted line. Note that to terminate the program the user has to enter the letter q or Q at the end of the input and leave NO SPACES or NEXT LINES after the quit character.
 
